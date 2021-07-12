@@ -15,6 +15,8 @@
 - Necessário inserir o seu servidor do SQL Server, no campo 'SqlServer'.
 - Necessário inserir o seu servidor do Redis, no campo 'RedisSettings'.
 
+Abaixo, segue o appSettings.json de configuração.
+
 `
 {
 
